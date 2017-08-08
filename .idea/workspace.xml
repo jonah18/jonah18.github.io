@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d5501cf-4a09-4cab-a189-d5c82fe4aaca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Resume.jpg" afterPath="$PROJECT_DIR$/images/Resume.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,28 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="103" column="48" lean-forward="false" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Resume.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/images/Resume.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="225">
+              <caret line="101" column="86" lean-forward="false" selection-start-line="101" selection-start-column="86" selection-end-line="101" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -237,12 +218,12 @@
       <workItem from="1496589658893" duration="1013000" />
       <workItem from="1496845775532" duration="442000" />
       <workItem from="1497884019019" duration="4000" />
-      <workItem from="1502220955680" duration="988000" />
+      <workItem from="1502220955680" duration="1078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13196000" />
+    <option name="totallyTimeSpent" value="13286000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -510,17 +491,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="103" column="48" lean-forward="false" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/Resume.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="101" column="86" lean-forward="false" selection-start-line="101" selection-start-column="86" selection-end-line="101" selection-end-column="86" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
