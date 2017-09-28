@@ -1,4 +1,6 @@
 archive
 node_modules
-temp/*
-.idea/*
+temp/
+.idea/
+CNAME
+.*
